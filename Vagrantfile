@@ -3,8 +3,8 @@
 VAGRANT_API_VERSION = "2"
 
 windows_IP = "192.168.35.50"
-git_user   = "Mike Scott"
-git_email  = "mike.scott@nttdata.com" 
+git_user   = "Git User"
+git_email  = "git.user@email.com" 
 
 Vagrant.configure(VAGRANT_API_VERSION) do |config|
 
